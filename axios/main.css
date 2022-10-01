@@ -1,0 +1,52 @@
+.section{
+    background-color: rgba(128, 128, 128, 0.5);
+    display: flex;
+    justify-content: center;
+    max-width: 1100px;
+    margin: auto;
+}
+.notification-info{
+    background-color: rgb(0, 174, 255);
+    color: white;
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 600px;
+    font-size: 1.5rem;
+}
+.btn{
+    padding: 0.5rem 1rem;
+    border: 1px solid dodgerblue;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(27, 131, 235);
+}
+.btn:active{
+    background-color: white;
+    color: dodgerblue;
+}
+.buttons-top{
+    margin-bottom: 1rem;
+}
+.buttons-bottom{
+    margin-bottom: 1rem;
+}
+.message{
+    max-width: 1100px;    
+    margin: auto ;
+    margin-bottom: 1rem;
+}
+.messaga-title{
+    padding: .5rem 0rem .5rem .5rem;
+    background-color: rgb(62, 141, 62);
+    color: white;
+    margin: 0;
+
+}
+.message-content{
+    background-color: rgb(216, 252, 216);
+    color: green;
+    padding: 1rem;
+}
